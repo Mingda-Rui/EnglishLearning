@@ -104,3 +104,51 @@
         e.g. It took a considerable amount of polish an elbow grease before the brass shone.
 
         e.g. When you use social media and elbow grease to maintain a massive Fringe network, it becomes a serendipity engine on its own.
+
+    - obscene [əbˈsiːn]
+
+        ADJ If you describe something as obscene, you disapprove of it very strongly and consider it to be offensive or immoral. 令人憎恶的
+
+        e.g. It was obscene to spend millions producing unwanted food.
+
+        e.g. In Silicon Valley, people pay obscene premiums for real estate and rent so that they can live and work in close proximity to their tech brethren.
+
+    - brethren [ˈbreðrən]
+
+        N-PLURAL You can refer to the members of a particular organization or group, especially a religious group, as brethren 同胞
+
+        e.g. We must help our brethren, it is our duty.
+
+    - groove [ɡruːv]
+
+        N-COUNT A groove is a deep line cut into a surface
+
+        e.g. Prior to assembly, grooves were mad in the shelf, base, and sides to accommodate the back panel.
+
+        e.g. The result is that unless you make a real effort, you get into a social groove and see the same people over and over.
+
+    - expletive [ˈeksplətɪv]
+
+        N-COUNT An expletive is a rude word or expression such as "Damn!" that people say when they are annoyed, excited, or in pain
+
+    - parry [ˈpæri]
+
+        V-T If you parry a question or argument, you cleverly avoid answering it or dealing with it.
+
+        e.g. In an awkward press conference, Mr. Kurtz parried questions on the allegation.
+
+        e.g. I come home with fifteen new ideas, which I throw at my stuff in rapid fire and let them parry back until one or two ultimately stick and a new solution is born.
+
+    - brim [brɪm]
+
+        V-I if someone or something is brimming with a particular quality, they are full of that quality
+
+        e.g. The team is brimming with confidence after two straight wins in the tournament.
+
+        V-I When your eyes are brimming with tears, they are full of fluid because you are upset, although you are not actually crying
+
+        e.g. Michael looked at him imploringly, eyes brimming with tears.
+
+        e.g. Speaking of conferences, you surely know people who go to them and come back brimming with stories about all the interest people they met and buddied up with.
+
+    - consciously
