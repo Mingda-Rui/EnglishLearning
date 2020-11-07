@@ -151,4 +151,134 @@
 
         e.g. Speaking of conferences, you surely know people who go to them and come back brimming with stories about all the interest people they met and buddied up with.
 
-    - consciously
+    - consciously [ˈkɑːnʃəsli]
+
+        ADV with awareness
+
+        e.g. She consciously played with the idea of inviting them.
+
+        e.g. You've got to take advantage of the opportunity consciously, with a little bit of push and a little bit of pull.
+
+    - ritual [ˈrɪtʃuəl]
+
+        N-VAR A ritual is a religious service or other ceremony which involves a series of actions performed in a fixed order. 宗教仪式；典礼
+
+        ADJ Ritual activies happen as part of a ritual or tradition. 仪式性的；传统的
+
+        N-VAR A ritual is a way of behaving or a series of actions that people regularly carry out in a particular situation, because it is their custom to do so. 习俗
+
+        ADJ You can describe something as a ritual action when it is down in exactly the same way whenever a particular situation occurs. 例行公事般的；习惯性的
+
+        e.g. In companies, CEOs almost invariably set the tone and the rituals of their company cultures.
+
+    - uncanny [ʌnˈkæni]
+
+        ADJ If you describe something as uncanny, you mean that it is strange and difficult to explain.
+
+        e.g. The hero, Danny, bears an uncanny resemblance to kirk Douglas.
+
+    - stoke [stoʊk]
+
+        V-T If you stoke a fire, you add coal or wood to it to keep it burning
+
+        e.g. She was stoking the stove with sticks of maple.
+
+        V-T If you stoke something such as a feeling, you cause it to be felt more strongly.
+
+        e.g. These demands are helping to stoke fears of civil war.
+
+        e.g. If your passion fires are burning low, stoke them with novelty.
+
+    - synonymous [sɪˈnɑːnɪməs]
+
+        ADJ If you say that one thing is synonymous with another, you mean that the two things are very associated with each other so that one suggests the other or one cannot exist without the other
+
+        e.g. Paris has always been synonymous with elegance, luxury and style.
+
+        e.g. Google, a company that has become synonymous with innovation. 
+
+    - bent [bent]
+
+        V-T Bent is the past tense and past participle of (bend)
+
+        ADJ If an object is bent, it is damaged and no longer has its correct shape.
+
+        ADJ If a person is bent, their body has become curved because of old age or disease.
+
+        ADJ If someone is bent on doing something, especially something harmful, they are determine to do it.
+
+        e.g. He's bent on suicide.
+
+        N-SING If you have a bent for something, you have a natural ability to do it or a natural interest in it.
+
+        e.g. His bent for natural history directed him towards his first job.
+
+        N-SING If someone is of a particular bent, they hold a particular set of beliefs.
+
+        e.g. ... economists of a socialist bent. 
+
+    - contingent [kənˈtɪndʒənt]
+
+        N-COUNT A contingent of police, soldiers, or military vehicles is a group of them
+
+        e.g. Nigeria provided a large contingent of troops to the West African Peacekeeping Force.
+
+        N-COUNT A contingent is a group of people representing a country or organization at a meeting or other event 
+
+        e.g. The American contingent will stay overnight in London.
+
+        ADJ contingent on determined by conditions or circumstances not yet established. 视...而定；取决于...
+
+        e.g. The key is in adopting the attitude that this effort isn't a distraction or even a diversion , but is, in fact,  contingent on your success.
+
+    - quirky [ˈkwɜːrki]
+
+        ADJ Something or someone that is quirky is odd or unpredictable in their appearance, character, or behavior.
+
+        e.g. We've developed a reputation for being quirky and original.
+
+    - left field
+
+        N-SING If you say that someone or something has come out of left field or is out in left field, you mean that they are untypical, unusual, or strange in some way.
+
+        e.g. The question came out of left field, but Mary Ann wasn't really surprised.
+
+        e.g. Keep your eyes open, be humble and generous, and save time and attention for the spontaneous, he quirky, and the left field.
+
+    - infuse
+
+        V-T To infuse a quality into someone or something, or to infuse them with a quality, means to fill them with it.
+
+        e.g. Many of the girls seemed to be infused with excitement on seeing the snow.
+
+        e.g. Content, infused with humanity and that special sauce of serendipity, is flowing out.
+
+    - blabber
+
+        N a person who blabs
+
+        V to talk without thinking; chater
+
+        e.g. Without action, it's all just blabber, right?
+
+    - blab
+
+        V-T/V-I If someone blabs about something secret, they tell people about it.
+
+    - simultaneous [ˌsaɪmlˈteɪniəs]
+
+        ADJ Things which are simultaneous happen or exist at the same time.
+
+        e.g Gather up all those smart people in a process of simultaneous learning and doing.
+
+    - vivacious [vɪˈveɪʃəs,vaɪˈveɪʃəs]
+
+        ADJ If you describe someone, usually a woman, as vivacious, you mean that they are lively, exciting, and attractive.
+
+        e.g. She's beautiful, vivacious, and charming.
+
+        e.g. I have a friend, Gina Rudan, a sharp, vivacious leadership coach.
+
+    - liftoff [ˈlɪftɔːf]
+
+        a vertical takeoff by an aircraft or a rocket vehicle or missile.
